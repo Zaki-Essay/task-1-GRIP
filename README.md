@@ -1,4 +1,4 @@
-# Basic-Banking-System_TSFOUNDATION
+# Basic Banking System #GRIPJULY22
 
 BASIC BANKING SYSTEM
 
@@ -13,11 +13,11 @@ BASIC BANKING SYSTEM
 
 The website hosted at 000webhost 👍👍👍
   
-    https://basictsfsystem-bhavjot.000webhostapp.com/
+    http://task1gripjuly22.000webhostapp.com/index.html
     
 The Working Video is also available on Youtube 👍👍👍
 
-    https://youtu.be/1_C53neNQHo
+    https://youtu.be/
     
 # Tech Stacks 👍 :-
   Front End:- 
